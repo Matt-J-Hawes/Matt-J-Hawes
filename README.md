@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matt Hawes. I am currently a professional Frontend Web Developer.
+- 👋 Hi, I’m Matt Hawes. I am a professional Frontend Web Developer.
 - 👀 I’m interested in both frontend and backend development. 
 - 🌱 I’m currently learning Python. 
 - 📫 How to reach me -> matt.jameshawes2@gmail.com
